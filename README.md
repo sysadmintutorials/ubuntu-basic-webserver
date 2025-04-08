@@ -3,7 +3,7 @@ This script is used to install Nginx, followed by creating a basic index.html fi
 
 The webpage will display the hostname, local IP address as well as "I am a basic web server created by Sysadmintutorials, enjoy" text
 
-## Pull and Execute straight from Github
+### Pull and Execute straight from Github
 
 Run the following command:
 
