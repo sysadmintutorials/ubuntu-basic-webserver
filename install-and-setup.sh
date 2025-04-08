@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Nginx Install
-apt install -y nginx
+NEEDRESTART_MODE=a apt install -y nginx
 systemctl start nginx
 systemctl enable nginx
 
