@@ -7,8 +7,8 @@ The webpage will display the hostname, local IP address as well as "I am a basic
 
 Run the following command:
 
-wget -O - https://raw.githubusercontent.com/sysadmintutorials/ubuntu-basic-webserver/refs/heads/main/install-and-setup.sh | sudo bash
+- wget -O - https://raw.githubusercontent.com/sysadmintutorials/ubuntu-basic-webserver/refs/heads/main/install-and-setup.sh | sudo bash
 
 ### Note
 
-NEEDRESTART_MODE=a - Automatically restarts services, post Nginx install
+- NEEDRESTART_MODE=a - Automatically restarts services, post Nginx install
