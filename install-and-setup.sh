@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Updates
-apt update && apt upgrade -y
-
 # Nginx Install
 apt install -y nginx
 systemctl start nginx
